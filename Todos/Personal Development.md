@@ -1,3 +1,3 @@
-**Personal Development**
+# Personal Development
 
 Build good habits
